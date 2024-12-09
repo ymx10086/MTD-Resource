@@ -50,9 +50,7 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey](#survey)
-- [Network Traffic Analysis](#network-traffic-analysis)
-- [Measurement](#measurement)
-- [Teams](#teams)
+- [Malicious Traffic Detection](#Malicious-Traffic-Detection)
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#tool-libraries-and-frameworks)
 <!--
