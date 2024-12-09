@@ -20,25 +20,25 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 -->
 
-<h3 align="center">
-    <img src="https://github.com/linwhitehat/ETA-Resource/blob/main/ETA.png">
-</h3>
+<!-- <h3 align="center">
+    <img src="https://github.com/ymx10086/MTD-Resource/blob/main/ETA.png">
+</h3> -->
 
 <h1 align="center">
-    <p>Encrypted Network Traffic Analysis Resources</p>
-    <p>加密流量分析相关研究资源汇总</p>
+    <p>Malicious Traffic Detection Analysis Resources</p>
+    <p>恶意流量检测相关研究资源汇总</p>
 </h1>
 
 <p align="center">
-    <a href="https://github.com/linwhitehat/ETA-Resource/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/linwhitehat/ETA-Resource.svg?color=green">
+    <a href="https://github.com/ymx10086/MTD-Resource/blob/main/LICENSE">
+        <img alt="GitHub" src="https://img.shields.io/github/license/ymx10086/MTD-Resource.svg?color=green">
     </a>
-    <img src="https://img.shields.io/github/stars/linwhitehat/ETA-Resource">
-    <img src="https://img.shields.io/github/forks/linwhitehat/ETA-Resource">
-    <a href="https://github.com/linwhitehat/ETA-Resource/graphs/traffic">
+    <img src="https://img.shields.io/github/stars/ymx10086/MTD-Resource">
+    <img src="https://img.shields.io/github/forks/ymx10086/MTD-Resource">
+    <a href="https://github.com/ymx10086/MTD-Resource/graphs/traffic">
     <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
     </a>
-    <a href="https://github.com/linwhitehat/ETA-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-6-orange.svg"></a>
+    <a href="https://github.com/ymx10086/MTD-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-1-orange.svg"></a>
 </p>
 
 **Note:**
@@ -263,11 +263,11 @@ Thanks goes to these wonderful people!
 
 <table>
   <tr>
-    <td align="center"><a href="https://linwhitehat.github.io/"><img src="https://avatars3.githubusercontent.com/u/20349381?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xinjie Lin</b></sub></a><br /><a href="#ideas-XinjieLin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=linwhitehat" title="Documentation">📝</a> <a href="#maintenance-XinjieLin" title="Maintenance">📔</a></td>
+    <td align="center"><a href="https://linwhitehat.github.io/"><img src="https://avatars3.githubusercontent.com/u/20349381?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xinjie Lin</b></sub></a><br /><a href="#ideas-XinjieLin" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/ymx10086/MTD-Resource/commits?author=linwhitehat" title="Documentation">📝</a> <a href="#maintenance-XinjieLin" title="Maintenance">📔</a></td>
     <td align="center"><a href="https://github.com/CuiTianyu961030"><img src="https://avatars.githubusercontent.com/u/43595189?v=4" width="100px;" alt=""/><br /><sub><b>Tianyu Cui</b></sub></a><br /><a href="#ideas-TianyuCui" title="Ideas, Planning, & Feedback">🎯</a> </td>
     <td align="center"><a href="https://github.com/jmhIcoding"><img src="https://avatars.githubusercontent.com/u/19209689?v=4" width="100px;" alt=""/><br /><sub><b>Minghao Jiang</b></sub></a><br /><a href="#ideas-MinghaoJiang" title="Ideas, Planning, & Feedback">🎯</a> </td>
-    <td align="center"><a href="https://github.com/GuanZH95"><img src="https://avatars.githubusercontent.com/u/30852909?v=4" width="100px;" alt=""/><br /><sub><b>Zhong Guan</b></sub></a><br /><a href="#ideas-ZhongGuan" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=GuanZH95" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/GuanZH95"><img src="https://avatars.githubusercontent.com/u/30852909?v=4" width="100px;" alt=""/><br /><sub><b>Zhong Guan</b></sub></a><br /><a href="#ideas-ZhongGuan" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/ymx10086/MTD-Resource/commits?author=GuanZH95" title="Documentation">📝</a></td>
     <td align="center"><a href="https://github.com/wayneowen7"><img src="https://avatars.githubusercontent.com/u/29433723?v=4" width="100px;" alt=""/><br /><sub><b>Wei Cai</b></sub></a><br /><a href="#ideas-WeiCai" title="Ideas, Planning, & Feedback">🎯</a> </td>
-    <td align="center"><a href="https://github.com/XiyuanZhang971118"><img src="https://avatars.githubusercontent.com/u/155507014?v=4" width="100px;" alt=""/><br /><sub><b>Xiyuan Zhang</b></sub></a><br /><a href="#ideas-XiyuanZhang" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/linwhitehat/ETA-Resource/commits?author=XiyuanZhang971118" title="Documentation">📝</a></td>
+    <td align="center"><a href="https://github.com/XiyuanZhang971118"><img src="https://avatars.githubusercontent.com/u/155507014?v=4" width="100px;" alt=""/><br /><sub><b>Xiyuan Zhang</b></sub></a><br /><a href="#ideas-XiyuanZhang" title="Ideas, Planning, & Feedback">🎯</a> <a href="https://github.com/ymx10086/MTD-Resource/commits?author=XiyuanZhang971118" title="Documentation">📝</a></td>
   </tr>
 </table>
