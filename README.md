@@ -36,7 +36,7 @@ SOFTWARE.
     <img src="https://img.shields.io/github/stars/ymx10086/MTD-Resource">
     <img src="https://img.shields.io/github/forks/ymx10086/MTD-Resource">
     <a href="https://github.com/ymx10086/MTD-Resource/graphs/traffic">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FETA-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flinwhitehat%2FMTD-Resource&label=visitor%20%20%20&labelColor=%23697689&countColor=%232ccce4&style=flat">
     </a>
     <a href="https://github.com/ymx10086/MTD-Resource#contributors-"><img src="https://img.shields.io/badge/Contributors-1-orange.svg"></a>
 </p>
