@@ -58,7 +58,7 @@ SOFTWARE.
 -->
 
 # About
-This is a current list of resources related to the research and development of encrypted traffic analysis. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
+This is a current list of resources related to the research and development of Malicious Traffic Detection. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
 
 # Datasets
 
