@@ -31,7 +31,7 @@ SOFTWARE.
 
 <p align="center">
     <a href="https://github.com/ymx10086/MTD-Resource/blob/main/LICENSE">
-        <img alt="GitHub" src="https://img.shields.io/github/license/ymx10086/MTD-Resource.svg?color=green">
+        <!-- <img alt="GitHub" src="https://img.shields.io/github/license/ymx10086/MTD-Resource.svg?color=green"> -->
     </a>
     <img src="https://img.shields.io/github/stars/ymx10086/MTD-Resource">
     <img src="https://img.shields.io/github/forks/ymx10086/MTD-Resource">
