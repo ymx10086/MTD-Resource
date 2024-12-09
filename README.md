@@ -82,26 +82,12 @@ This is a current list of resources related to the research and development of e
 -->
 
 # Blogs
-## Network Traffic Knowledge
-* [Icoding_F2014](https://blog.csdn.net/jmh1996)
-* [Malware-Traffic-Analysis](https://www.malware-traffic-analysis.net/)
 
-## Network Traffic Analysis Tool Manual
-* [Tshark](https://www.wireshark.org/docs/man-pages/tshark.html)
-* [pyshark](https://github.com/KimiNewt/pyshark)
 <!--
 https://dilidonglong.com/2019/04/26/tshark%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/
 -->
 
 # Tool Libraries and Frameworks
-* [flowcontainer](https://github.com/jmhIcoding/flowcontainer)
-* [scapy](https://scapy.net/)
-* [wireshark](https://www.wireshark.org/)
-* [pyshark](https://kiminewt.github.io/pyshark/)
-* [Cisco Talos](https://talosintelligence.com/software)
-* [Joy](https://github.com/cisco/joy)
-* [Proxifier](https://www.proxifier.com/)
-* [traffic_classification_utils](https://github.com/jmhIcoding/traffic_classification_utils)
 
 # What's New
 **Version 1.0**
