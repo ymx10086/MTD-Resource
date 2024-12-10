@@ -61,7 +61,7 @@ SOFTWARE.
 This is a current list of resources related to the research and development of Malicious Traffic Detection. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
 
 # Datasets
-
+- [Kisune](https://paperswithcode.com/dataset/kitsune-network-attack-dataset) Introduced by Mirsky et al. in Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection
 
 # Survey
 
@@ -72,14 +72,15 @@ This is a current list of resources related to the research and development of M
 
 - [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
 - [DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS](https://arxiv.org/pdf/2405.07638). Qingyang Li.
+- [DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models](https://arxiv.org/pdf/2409.10561). Zhenyu Yin. [[code]](https://github.com/liuup/DrLLM)
 
 ## Malicious Traffic with ML-Based Manners
 
 - [Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis](https://arxiv.org/pdf/2106.14707). Chuanpu Fu. CCS 2021. [[code]](https://github.com/fuchuanpu/Whisper) [[video]](https://dl.acm.org/doi/10.1145/3460120.3484585)
 - [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. NDSS 2023. [[code]](https://github.com/fuchuanpu/HyperVision) [[video]](https://www.youtube.com/watch?v=FuKrs4dt6aw) [[slide]](https://www.ndss-symposium.org/wp-content/uploads/2024/10/2023-80-slides.pdf)
 - [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645407). Ziming Zhao. WWW 2024. [[code]](https://github.com/Secbrain/Trident) [[video]](https://dl.acm.org/doi/abs/10.1145/3589334.3645407?download=true)
-- 
-
+- [Kitsune: An Ensemble of Autoencoders for Online  Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). 
+Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
 <!--
 
 # Ethereum
