@@ -81,6 +81,7 @@ This is a current list of resources related to the research and development of M
 - [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645407). Ziming Zhao. WWW 2024. [[code]](https://github.com/Secbrain/Trident) [[video]](https://dl.acm.org/doi/abs/10.1145/3589334.3645407?download=true)
 - [Kitsune: An Ensemble of Autoencoders for Online  Network Intrusion Detection](https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_03A-3_Mirsky_paper.pdf). 
 Yisroel Mirsky. NDSS 2018. [[code]](https://github.com/ymirsky/Kitsune-py)
+- [Detecting Tunneled Flooding Traffic via Deep Semantic Analysis of Packet Length Patterns](https://dl.acm.org/doi/pdf/10.1145/3658644.3670353). Chuanpu Fu. CCS 2024. [[code]](https://github.com/fuchuanpu/Exosphere)
 <!--
 
 # Ethereum
