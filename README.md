@@ -77,7 +77,8 @@ This is a current list of resources related to the research and development of M
 
 - [Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis](https://arxiv.org/pdf/2106.14707). Chuanpu Fu. CCS 2021. [[code]](https://github.com/fuchuanpu/Whisper) [[video]](https://dl.acm.org/doi/10.1145/3460120.3484585)
 - [Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s80_paper.pdf). Chuanpu Fu. NDSS 2023. [[code]](https://github.com/fuchuanpu/HyperVision) [[video]](https://www.youtube.com/watch?v=FuKrs4dt6aw) [[slide]](https://www.ndss-symposium.org/wp-content/uploads/2024/10/2023-80-slides.pdf)
-- Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection
+- [Trident: A Universal Framework for Fine-Grained and Class-Incremental Unknown Traffic Detection](https://dl.acm.org/doi/pdf/10.1145/3589334.3645407). Ziming Zhao. WWW 2024. [[code]](https://github.com/Secbrain/Trident) [[video]](https://dl.acm.org/doi/abs/10.1145/3589334.3645407?download=true)
+- 
 
 <!--
 
