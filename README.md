@@ -25,8 +25,8 @@ SOFTWARE.
 </h3> -->
 
 <h1 align="center">
-    <p>Malicious Traffic Detection Analysis Resources</p>
-    <p>恶意流量检测相关研究资源汇总</p>
+    <p>LLM4Network & Malicious Traffic Detection Analysis Resources</p>
+    <p>LLM4Network & 恶意流量检测相关研究资源汇总</p>
 </h1>
 
 <p align="center">
@@ -50,6 +50,7 @@ SOFTWARE.
 - [About](#about)
 - [Dataset](#datasets)
 - [Survey](#survey)
+- [LLM for Network](#LLM-for-Network)
 - [Malicious Traffic Detection](#Malicious-Traffic-Detection)
 - [Blogs](#blogs)
 - [Libraries and Frameworks](#tool-libraries-and-frameworks)
@@ -65,6 +66,10 @@ This is a current list of resources related to the research and development of M
 
 # Survey
 
+# LLM for Network
+
+## General Tasks
+- [NetLLM: Adapting Large Language Models for Networking](https://dl.acm.org/doi/10.1145/3651890.3672268). Duo Wu. SIGCOMM 2024. [[code]](https://github.com/duowuyms/NetLLM) [[video]](https://www.bilibili.com/video/BV11sDUYmEDH/?vd_source=80d0ce9c94b3b5bd62a09a87188a643d) [[slides]](https://duowuyms.github.io/pdf/sigcomm_2024_NetLLM.pptx)
 
 # Malicious Traffic Detection
 
@@ -73,6 +78,7 @@ This is a current list of resources related to the research and development of M
 - [TrafficFormer: An Efficient Pre-trained Model for Traffic Data](http://www.thucsnet.com/wp-content/papers/guangmeng_sp2025.pdf). Guangmeng Zhou. S&P 2025. [[code]](https://github.com/IDP-code/TrafficFormer)
 - [DoLLM: How Large Language Models Understanding Network Flow Data to Detect Carpet Bombing DDoS](https://arxiv.org/pdf/2405.07638). Qingyang Li.
 - [DrLLM: Prompt-Enhanced Distributed Denial-of-Service Resistance Method with Large Language Models](https://arxiv.org/pdf/2409.10561). Zhenyu Yin. [[code]](https://github.com/liuup/DrLLM)
+- [ShieldGPT: An LLM-based Framework for DDoS Mitigation](https://dl.acm.org/doi/epdf/10.1145/3663408.3663424). Tongze Wang. APNet 2024. [[code]](https://github.com/wangtz19/ShieldGPT)
 
 ## Malicious Traffic with ML-Based Manners
 
