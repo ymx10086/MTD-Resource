@@ -62,7 +62,8 @@ SOFTWARE.
 This is a current list of resources related to the research and development of Malicious Traffic Detection. We comb the field for relevant representative work and related resources, and pay more attention to typical studies and research teams.
 
 # Datasets
-- [Kisune](https://paperswithcode.com/dataset/kitsune-network-attack-dataset) Introduced by Mirsky et al. in Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection
+- [Kisune](https://paperswithcode.com/dataset/kitsune-network-attack-dataset) Introduced by Mirsky et al. In Kitsune: An Ensemble of Autoencoders for Online Network Intrusion Detection.
+- [Yatesbury](https://github.com/microsoft/Yatesbury) Introduced by microsoft et al. This dataset serves as a benchmark for evaluting the performance and efficiency of anomaly detectors in east-west data center network traffic.
 
 # Survey
 
